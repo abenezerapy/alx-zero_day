@@ -1,2 +1,1 @@
-my second commit
-
+I updated the github readme file
